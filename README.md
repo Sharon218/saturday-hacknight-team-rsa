@@ -5,8 +5,9 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Sharon](https://github.com/sharon218)
+2. [Athul](https://github.com/alpha-og)
+2. [Roshin](https://github.com/roshinr2005)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
